@@ -16,3 +16,11 @@
 - Requests
 - Python-dotenv
 - GigaChat API
+
+## Установка
+
+> pip install requests  
+> your_key заменить на реальный ключ, полученный на https://developers.sber.ru
+
+## Запуск 
+> python main.py
