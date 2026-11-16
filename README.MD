@@ -20,7 +20,7 @@
 ## Установка
 
 > pip install requests  
-> your_key заменить на реальный ключ, полученный на https://developers.sber.ru
+> **your_key** из main.py заменить на реальный ключ, полученный на https://developers.sber.ru
 
 ## Запуск 
 > python main.py
